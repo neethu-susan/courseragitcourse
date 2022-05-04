@@ -1,2 +1,4 @@
 File6
 How to add pull request
+After forking remote repo we can make changes locally
+After that we can make pull request to notify the owner of the repo which he can merge if required
